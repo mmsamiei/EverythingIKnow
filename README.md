@@ -1,1 +1,2 @@
-# EverythingIKnow
+# Initial page
+
