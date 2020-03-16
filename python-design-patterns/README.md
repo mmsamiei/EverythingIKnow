@@ -20,7 +20,9 @@ Besides that, it's a tool of communication between programmers. It's much easier
 
 three categories: **creational**, **structural**, and **behavioral**.
 
-creational patterns: These patterns deal with different aspects of object creation. Their goal is to provide better alternatives for situations where direct object creation, which in Python happens within the **init**\(\) function, is not convenient.
+**creational patterns**: These patterns deal with different aspects of object creation. Their goal is to provide better alternatives for situations where direct object creation, which in Python happens within the **init**\(\) function, is not convenient.
+
+
 
   
 
