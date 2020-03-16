@@ -6,6 +6,8 @@ The problem is for the case that when client asks for an object but doesn't want
 
 In Factory method, we write a single method to handle object creation. 
 
+![](../.gitbook/assets/factory-method.png)
+
 ## A Symbolic Example
 
 ```python
