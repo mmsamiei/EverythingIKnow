@@ -20,7 +20,7 @@ This independence makes working independently, covering the model with tests and
 
 View receives data from the model through the controller and is responsible for its visualization. It should not contain complex logic; all such logic should go to the models and controllers.
 
-## What Controller?
+## What is Controller?
 
 The responsibility of the controllers is to receive data from the request and send it to other parts of the system. Only in this case, the controller is "thin" and is intended only as a bridge \(glue layer\) between the individual components of the system.
 

@@ -2,7 +2,11 @@
 
 ## What is design pattern?
 
-A design pattern is a general reusable solution to a commonly occurring problem within a given context. In everyday work, a programmer faces issues that have been solved so many times in the past by other developers that they have evolved common patterns to solve them. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code. The pattern is not a specific piece of code, but a general concept for solving a particular problem.
+A design pattern is a general reusable solution to a commonly occurring problem within a given context. In everyday work, a programmer faces issues that have been solved so many times in the past by other developers that they have evolved common patterns to solve them. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code. The pattern is not a specific piece of code, but a general concept for solving a particular problem. 
+
+Here we have a Definition about design patterns from the _Gang of Four book:_
+
+> A design pattern systematically names, motivates, and explains a general design that addresses a recurring design problem in object-oriented systems. It describes the problem, the solution, when to apply the solution, and its consequences. It also gives implementation hints and examples. The solution is a general arrangement of objects and classes that solve the problem.
 
 ## What are the advantages of design patterns?
 
