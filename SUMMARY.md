@@ -4,5 +4,6 @@
 * [Python Design Patterns](python-design-patterns/README.md)
   * [Model-View-Controller](python-design-patterns/model-view-controller.md)
   * [The factory method](python-design-patterns/the-factory-method.md)
+  * [The abstract factory](python-design-patterns/the-abstract-factory.md)
 * [Integration by parts](integration-by-parts.md)
 
