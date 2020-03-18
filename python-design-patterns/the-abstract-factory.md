@@ -41,15 +41,6 @@ def Water:
 
 class Order:
     def __init__(self):
-        items = []
-    def add_item(self, item)
-        items.append(item)
-
-class OrderFactory:
-    @staticmethod
-    def make_order(self, order_text):
-        
-    
         
 ```
 
