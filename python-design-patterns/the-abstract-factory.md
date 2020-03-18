@@ -2,7 +2,7 @@
 
 ## What is the abstract factory?
 
-The **Abstract Factory** pattern looks like the factory objects we’ve seen previously, with not one but several factory methods. Each of the factory methods creates a different kind of object.
+The **Abstract Factory** pattern looks like the factory objects we’ve seen previously, with not one but several factory methods. Each of the factory methods creates a different kind of object. indeed Abstract Factory is used when you need to create a family of objects that do some work together.
 
 ## What's the problem?
 
