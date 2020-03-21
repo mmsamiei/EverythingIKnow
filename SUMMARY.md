@@ -7,4 +7,5 @@
   * [The factory method](python-design-patterns/the-factory-method.md)
   * [The abstract factory](python-design-patterns/the-abstract-factory.md)
 * [Integration by parts](integration-by-parts.md)
+* [Verb tense](verb-tense.md)
 
