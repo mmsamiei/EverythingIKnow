@@ -30,8 +30,9 @@ In this page, i want to practice english grammar by generating sentences.
 * Majesty, your hasty decision causes horrible ramifications.
 * Who can change this situation?
 * Check yourself before the people do it.
-* If you have two choices, money and your idealogy, what will you choose?
+* If you have two choices, money and your ideology, what will you choose?
 * If you want to defeat him, you should clear your mind from disappointing thoughts. 
-
+* She has been cleaning here for six hours.
+* 
 
 
