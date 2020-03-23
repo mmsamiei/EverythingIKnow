@@ -33,6 +33,17 @@ In this page, i want to practice english grammar by generating sentences.
 * If you have two choices, money and your ideology, what will you choose?
 * If you want to defeat him, you should clear your mind from disappointing thoughts. 
 * She has been cleaning here for six hours.
+* I collected all of projects but I couldn't find anythings.
+* All good things must come to an end.
+*  Champions never complain, because they are busy enough.
+* He hasn't complete the work which he started, but i will finish it.
+* Success can consist of going from failure to another failure without losing your enthusiasm.
+* This book contains three different part.
+* You should continue the work which you started it.
+* I've invited him four times to contribute to our project.
+* No one could control people's anger.
+* Then, he came back and tried to correct his mistakes.
+* nothing can't cost dying innocent people.
 * 
 
 
