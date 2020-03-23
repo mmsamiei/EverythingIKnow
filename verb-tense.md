@@ -43,7 +43,12 @@ In this page, i want to practice english grammar by generating sentences.
 * I've invited him four times to contribute to our project.
 * No one could control people's anger.
 * Then, he came back and tried to correct his mistakes.
-* nothing can't cost dying innocent people.
+* Nothing can't cost dying innocent people.
+* Next year at the same time, he will be creating his team.
+* The Army has crossed the river in order to defend the city.
+* I ask her to not cut her hairs.
+* He has been damaging enemy's Army severely for ten years.
+* They had been dealing drugs for more than twenty years and we destroyed their business.
 * 
 
 
