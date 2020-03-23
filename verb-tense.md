@@ -49,6 +49,24 @@ In this page, i want to practice english grammar by generating sentences.
 * I ask her to not cut her hairs.
 * He has been damaging enemy's Army severely for ten years.
 * They had been dealing drugs for more than twenty years and we destroyed their business.
-* 
+* We should have delivered more supplies to the west.
+* He is denying the truth.
+* Success in exams depends on your efforts.
+* Is anyone here who can describe the situation?
+* They tried to develop the company but unfortunately, they failed.
+* You shouldn't disappear after losses. 
+* Every day he will discover new evidence.
+* You don't do your mission.
+* He dressed like a poor man.
+* I want to drink the poison cup.
+* You can't derive pleasure from this friendship.
+* He got on car and then drive the frontline.
+* Revolutions eats their children.
+* I'm trying to encourage him to fight again.
+* Nobody knows what will happen.
+* I haven't your facilities.
+* People only hear what the want to hear.
+* Nobody can help everyone, but everyone can help someone.
+
 
 
