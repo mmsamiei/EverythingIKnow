@@ -63,10 +63,32 @@ In this page, i want to practice english grammar by generating sentences.
 * He got on car and then drive the frontline.
 * Revolutions eats their children.
 * I'm trying to encourage him to fight again.
+* You should enjoy your life.
+* I think that love doesn't exist.
+* I expect you to grow up the next generation.
+* If you experienced pain as me, never speak in that way.
+* You can't explain everything to everybody.
+* Tears are words that hearts can't express.
+* The windows face east.
+* Can you see the invisible bombs which fall on our city?
+* I feel somewhat tired.
+* I have been trying to find the justice for thirty years.
+* Tell me the truth, then I Allow you to finish your job.
+* I Believe that one day you can fly.
+* Never follow the crowd.
+* I'll never forget what did you do to me.
+* I'll never forgive who annoyed me.
+* They have formed a circle around ~~of~~ him and are trying to arrest him alive.
+* Get it from me and then give it to your son.
+* Don't go to him alone.
+* Flowers and trees are growing without their gardener.
 * Nobody knows what will happen.
 * I haven't your facilities.
 * People only hear what the want to hear.
 * Nobody can help everyone, but everyone can help someone.
-
+* Humor is a good way to hide the pain.
+* Why Do you hold a knife in your hand? 
+* I had been hoping for fifteen years and now I haven't any words to say.
+* 
 
 
