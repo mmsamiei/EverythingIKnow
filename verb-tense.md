@@ -89,6 +89,17 @@ In this page, i want to practice english grammar by generating sentences.
 * Humor is a good way to hide the pain.
 * Why Do you hold a knife in your hand? 
 * I had been hoping for fifteen years and now I haven't any words to say.
-* 
+* What we imagine in our minds can become our reality.
+* He had been improving the code for two years.
+* I was increasing pressure on him but you disturbed my work.
+* Martyrdom of Qasem Soleimani influenced me deeply.
+* They have informed him of the disaster.
+* We should invite him to join our group.
+* Reaching the justice involves fighting corrupts.
+* Your voice keeps me calm.
+* He has been knowing this secret for ten years.
+* Enjoy your happiness because it will not last long.
+* First he laughs at you then will try to make you cry.
+
 
 
