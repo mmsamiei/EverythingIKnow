@@ -120,6 +120,11 @@ In this page, i want to practice english grammar by generating sentences.
 * To earn more, you must endeavor more!
 * God doesn't need us.
 * Open the windows, let wind to begin blowing.
+* You have ordered him to doing exhausting job. 
+* Her father owned a great villa in Savadkuh county. 
+* Price is what you pay, Value is what you get.
+* He has performed several massive reforms, but they haven't resulted.
+* They have been playing for three hours in the park.
 
 
 
