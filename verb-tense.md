@@ -100,6 +100,26 @@ In this page, i want to practice english grammar by generating sentences.
 * He has been knowing this secret for ten years.
 * Enjoy your happiness because it will not last long.
 * First he laughs at you then will try to make you cry.
+* I had learned the economics three years ago.
+* I have learned that life is very short.
+* The worst way you can leave someone is in silence. 
+* He lent me 50,000 dollars last month. 
+* Why do you like to marry with her?
+* They are trying to limit Iran regional activities.
+* You should listen to your heart voice. 
+* I can live no longer after his death. 
+* I like to look at the water flow in a stream.
+* I loved her but now it's time to take revenge on her.
+* I had been making a new weapon, but now i think the result of my work is absurd.
+* Your success matters for me.
+* The justice doesn't mean equality.
+* You should prepare a criteria in order to measure the success of our program.
+* After the solving financial problems, they met the political war.
+* Don't mention your move before you make a move.
+* Why don't you mind his mistakes?
+* To earn more, you must endeavor more!
+* God doesn't need us.
+* Open the windows, let wind to begin blowing.
 
 
 
