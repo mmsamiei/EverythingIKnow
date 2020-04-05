@@ -133,18 +133,19 @@ In this page, i want to practice english grammar by generating sentences.
 * I'm protecting my heart against today's storms.
 * I will provide any details about this incident.
 * They pushed him into the car.
-* Reach
-* Read
-* Receive
-* Record
-* Reduce
-* Regard
-* Relate
-* Release
-* Remember
-* Remove
-* Repeat
-* Replace
+* I will never stop until I can reach you.
+* I have been reading this book for two years.
+* Have you received our secret message?
+* This file have recorded the information of last two years of this machine.
+* It reduces the risk of heart failure.
+* The people regard him as the most successful president.
+* There is no secret that time can't reveal it.
+* How can you relate your failure to me? 
+* Release your fears in order to unlock your growth.
+* Can you remember me?
+* I have been trying seven years to remove his from my heart.
+* He said repeat it, and we repeated it but i wish we didn't do that.
+* Nobody could ever replace you.
 * Reply
 * Report
 * Result
