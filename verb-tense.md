@@ -146,10 +146,10 @@ In this page, i want to practice english grammar by generating sentences.
 * I have been trying seven years to remove his from my heart.
 * He said repeat it, and we repeated it but i wish we didn't do that.
 * Nobody could ever replace you.
-* Reply
-* Report
-* Result
-* Return
+* First we should think and then reply to their nefarious attack.
+* I have reported news to you for eight years.
+* Finally their efforts resulted in a big victory.
+* He has return in order to make his work complete.
 
 
 
