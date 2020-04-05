@@ -125,6 +125,30 @@ In this page, i want to practice english grammar by generating sentences.
 * Price is what you pay, Value is what you get.
 * He has performed several massive reforms, but they haven't resulted.
 * They have been playing for three hours in the park.
+* At last session He pointed to him as his successor.
+* I became teacher because I preferred books and kids to politics.
+* We had prepared ourselves for this war.Press
+* It is easier to prevent bad habits than to break them. 
+* Honest hearts produce honest actions.
+* I'm protecting my heart against today's storms.
+* I will provide any details about this incident.
+* They pushed him into the car.
+* Reach
+* Read
+* Receive
+* Record
+* Reduce
+* Regard
+* Relate
+* Release
+* Remember
+* Remove
+* Repeat
+* Replace
+* Reply
+* Report
+* Result
+* Return
 
 
 
