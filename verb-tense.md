@@ -127,7 +127,8 @@ In this page, i want to practice english grammar by generating sentences.
 * They have been playing for three hours in the park.
 * At last session He pointed to him as his successor.
 * I became teacher because I preferred books and kids to politics.
-* We had prepared ourselves for this war.Press
+* We had prepared ourselves for this war.
+* Press
 * It is easier to prevent bad habits than to break them. 
 * Honest hearts produce honest actions.
 * I'm protecting my heart against today's storms.
@@ -150,6 +151,27 @@ In this page, i want to practice english grammar by generating sentences.
 * I have reported news to you for eight years.
 * Finally their efforts resulted in a big victory.
 * He has return in order to make his work complete.
+* Rise above storms then you can see sunshine.
+* When you can't run anymore, run with your hearts.
+* When you save a girl, you save generations.
+* I have nothing to say.
+* I have seen a new future.
+* Don't sell your soul to buy bananas for monkeys.
+* I've sent many messages to him. 
+* Set your targets. 
+* Share your knowledge and experience with your successor. 
+* Shoot
+* Show
+* Sing
+* Sit
+* Sleep
+* Smile
+* Sound
+* Speak
+* Stand
+* Start
+* State
+* Study
 
 
 
