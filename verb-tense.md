@@ -160,18 +160,17 @@ In this page, i want to practice english grammar by generating sentences.
 * I've sent many messages to him. 
 * Set your targets. 
 * Share your knowledge and experience with your successor. 
-* Shoot
-* Show
-* Sing
-* Sit
-* Sleep
-* Smile
-* Sound
-* Speak
-* Stand
-* Start
-* State
-* Study
+* You will shoot in my chest.
+* USA's movements shows that it is going to perform an attack.
+* You should learn sit and observe. Not everything needs an reaction.
+* I want to sleep but my brain is still talking to itself.
+* Smile while you still have teeth.
+* She sounded a bit worried.
+* She says she must speak with you at once.
+* Put your feet on right place then stand firm.
+* The storm has started.
+* He stated that he hasn't any impetus to continue.
+* I had been studying here for four years.
 
 
 
