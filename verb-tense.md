@@ -171,6 +171,26 @@ In this page, i want to practice english grammar by generating sentences.
 * The storm has started.
 * He stated that he hasn't any impetus to continue.
 * I had been studying here for four years.
+* To learn to succeed you should first learn to fail.
+* I Suggest you to do war but never love. 
+* Should I supply your demand?
+* Do you suppose that he's doing right thing?
+* Dreams comes true if you survive in hard times!
+* He will take control of the country.
+* I wish to talk with her in one spring afternoon.
+* I wish to tell her my love for her.
+* People tend to forget their duties but remember their rights.
+* The trouble is you think you have time.
+* Take the stones people throw at you and use them to build a monument.
+* I have touched the failure. 
+* I am training myself to sit back sometimes and don't react.
+* You can't travel faster than light.
+* Don't waste your time on those who don't treat you well.
+* Doctors treated her with aspirin
+* Try and fail but never fail to try.
+* A dead end street is a good place to turn around.
+* Turn the pain into the power.
+* Understand, 
 
 
 
