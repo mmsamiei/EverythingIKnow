@@ -190,7 +190,16 @@ In this page, i want to practice english grammar by generating sentences.
 * Try and fail but never fail to try.
 * A dead end street is a good place to turn around.
 * Turn the pain into the power.
-* Understand, 
+* Those who judge will never understand.
+* Use your head.
+* I can never visit him.
+* You should wait for arriving clouds.
+* Being with you, is all that i want.
+* If you became nervous just start to walk.
+* He is watching you.
+* I either win or learn new things.
+* I have wondered about my fate.
+* I can't write last sentence!
 
 
 
