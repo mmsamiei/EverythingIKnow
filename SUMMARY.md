@@ -9,4 +9,5 @@
 * [Integration by parts](integration-by-parts.md)
 * [Verb tense](verb-tense.md)
 * [Expected Value](expected-value.md)
+* [Adjective Clause](adjective-clause.md)
 
