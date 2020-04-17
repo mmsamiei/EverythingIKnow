@@ -9,7 +9,9 @@ I can't see the tower which you are talking about.
 We need a guide who is familiar to this area.  
 I don't believe in a person whose nature is based on intimidating.  
 finally we will meet him whose signs we have observed.  
-When  
-Where  
-That
+The sun will rise next time when nobody have hope.  
+You will create a city where we will fight evils in.  
+Thank you! This is the most delicious pastry that i have eaten.  
+We have many mangers most of whom are unworthy.  
+
 
