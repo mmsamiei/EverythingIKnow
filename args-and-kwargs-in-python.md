@@ -30,3 +30,28 @@ output will be:
 -36
 ```
 
+## **\*\*kwargs**
+
+The special syntax _\*\*kwargs_ in function definitions in python is used **to pass a keyworded, variable-length argument list**. **We use the name** _**kwargs**_ **with the double star. The reason is because the double star allows us to pass through keyword arguments** \(and any number of them\).
+
+A keyword argument is where you provide a name to the variable as you pass it into the function.
+
+```python
+def myFun(**kwargs):
+    for key, value in kwargs.items():
+        print("{} == {}".format(key, value))
+
+
+myFun(friend='Danial', Enemy='Trump', Teacher='Habibi')
+```
+
+output will be:
+
+```text
+friend == Danial
+Enemy == Trump
+Teacher == Habibi
+```
+
+
+
