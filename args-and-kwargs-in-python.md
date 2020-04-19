@@ -53,5 +53,11 @@ Enemy == Trump
 Teacher == Habibi
 ```
 
+## How to call function with \*args and \*kwargs pretty?  :\)
 
+```python
+arg = (2, 11, "banana")
+kwargs = {"friend": "Danial", "Enemy":"Trump", "Age": 22}
+f(*arg, **kwargs)
+```
 
